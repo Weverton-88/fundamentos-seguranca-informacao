@@ -1,4 +1,4 @@
-# Fundamentos de Segurança da Informação 🔐
+# Fundamentos de Segurança da Informação
 
  Objetivo
 Este repositório tem como objetivo documentar estudos e aprendizados sobre os fundamentos da Segurança da Informação, servindo como base para formação técnica e profissional.
